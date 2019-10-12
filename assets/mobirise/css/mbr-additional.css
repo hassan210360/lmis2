@@ -8901,6 +8901,7 @@ section.lazy-placeholder:after {
 .cid-rCQhtX4kLO .mbr-section-subtitle {
   color: #767676;
   font-weight: 300;
+  text-align: right;
 }
 .cid-rCQhtX4kLO .mbr-content-text {
   color: #767676;
@@ -8951,6 +8952,9 @@ section.lazy-placeholder:after {
     padding-left: 0;
     padding-bottom: 2rem;
   }
+}
+.cid-rCQhtX4kLO .mbr-section-title {
+  text-align: right;
 }
 .cid-rCQhwtjPuA {
   padding-top: 90px;
@@ -13738,7 +13742,7 @@ section.lazy-placeholder:after {
 .cid-rDpy57lQcn {
   padding-top: 105px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/background57.jpg");
+  background-image: url("../../../assets/images/background56.jpg");
 }
 .cid-rDpy57lQcn .mbr-overlay {
   background-color: #879a9f;
