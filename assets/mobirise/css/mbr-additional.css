@@ -3288,6 +3288,10 @@ section.lazy-placeholder:after {
 .cid-rCyrNfLyYv .card-title,
 .cid-rCyrNfLyYv .card-img {
   color: #0f7699;
+  text-align: center;
+}
+.cid-rCyrNfLyYv P {
+  text-align: right;
 }
 .cid-rD8lxYNsaz {
   padding-top: 90px;
@@ -3361,6 +3365,7 @@ section.lazy-placeholder:after {
 }
 .cid-rCyrQOvSGc .mbr-text {
   color: #767676;
+  text-align: right;
 }
 .cid-rCyrQOvSGc .card-wrapper {
   height: 100%;
@@ -3372,6 +3377,10 @@ section.lazy-placeholder:after {
 .cid-rCyrQOvSGc .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
+}
+.cid-rCyrQOvSGc .card-title {
+  text-align: right;
+  color: #0f7699;
 }
 .cid-rCyr6UZZ7S {
   padding-top: 90px;
@@ -4502,7 +4511,7 @@ section.lazy-placeholder:after {
   background-color: #2e2e2e;
 }
 .cid-rCsG8WtpKz {
-  background-image: url("../../../assets/images/background310.jpg");
+  background-image: url("../../../assets/images/background32.jpg");
 }
 .cid-rCsG8WtpKz h1 {
   color: #616161;
@@ -6360,18 +6369,6 @@ section.lazy-placeholder:after {
 .cid-rCv4gQlglY .mbr-text,
 .cid-rCv4gQlglY .mbr-section-btn {
   text-align: center;
-}
-#custom-html-7n {
-  /* Type valid CSS here */
-}
-#custom-html-7n div {
-  padding: 80px 0;
-  color: #777;
-  text-align: center;
-}
-#custom-html-7n p {
-  font-size: 60px;
-  color: #777;
 }
 .cid-rDWa8PLe5S.popup-builder {
   background-color: #ffffff;
@@ -8283,16 +8280,16 @@ section.lazy-placeholder:after {
   font-style: italic;
 }
 .cid-rCGl04n5lI H1 {
-  text-align: left;
+  text-align: right;
   color: #ffffff;
 }
 .cid-rCGl04n5lI H3 {
-  text-align: left;
+  text-align: right;
   color: #149dcc;
 }
 .cid-rCGl04n5lI .mbr-text,
 .cid-rCGl04n5lI .mbr-section-btn {
-  text-align: left;
+  text-align: right;
   color: #ffffff;
 }
 .cid-rCGl05H3PD {
@@ -13355,6 +13352,7 @@ section.lazy-placeholder:after {
 }
 .cid-rDpKaPDw4b H4 {
   text-align: center;
+  color: #ffffff;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
@@ -13740,7 +13738,7 @@ section.lazy-placeholder:after {
 .cid-rDpy57lQcn {
   padding-top: 105px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/background515.jpg");
+  background-image: url("../../../assets/images/background57.jpg");
 }
 .cid-rDpy57lQcn .mbr-overlay {
   background-color: #879a9f;
