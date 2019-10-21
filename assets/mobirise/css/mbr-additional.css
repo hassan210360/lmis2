@@ -4326,7 +4326,7 @@ section.lazy-placeholder:after {
   background-color: #2e2e2e;
 }
 .cid-rCsG8WtpKz {
-  background-image: url("../../../assets/images/background32.jpg");
+  background-image: url("../../../assets/images/background39.jpg");
 }
 .cid-rCsG8WtpKz h1 {
   color: #616161;
@@ -8801,6 +8801,30 @@ section.lazy-placeholder:after {
   font-size: 60px;
   color: #777;
 }
+.cid-rFzu0mlsmW {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #073b4c;
+}
+.cid-rFzu0mlsmW .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rFzu0mlsmW .section-text {
+  padding: 2rem 0;
+  color: #efefef;
+}
+.cid-rFzu0mlsmW .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rFzu0mlsmW .inner-container {
+    width: 100% !important;
+  }
+}
 #custom-html-8q {
   /* Type valid CSS here */
 }
@@ -8812,6 +8836,29 @@ section.lazy-placeholder:after {
 #custom-html-8q p {
   font-size: 60px;
   color: #777;
+}
+.cid-rFztZgCwUT {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #073b4c;
+}
+.cid-rFztZgCwUT .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rFztZgCwUT .section-text {
+  padding: 2rem 0;
+}
+.cid-rFztZgCwUT .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rFztZgCwUT .inner-container {
+    width: 100% !important;
+  }
 }
 #custom-html-8r {
   /* Type valid CSS here */
@@ -8825,6 +8872,29 @@ section.lazy-placeholder:after {
   font-size: 60px;
   color: #777;
 }
+.cid-rFztXUS8Jx {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #073b4c;
+}
+.cid-rFztXUS8Jx .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rFztXUS8Jx .section-text {
+  padding: 2rem 0;
+}
+.cid-rFztXUS8Jx .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rFztXUS8Jx .inner-container {
+    width: 100% !important;
+  }
+}
 #custom-html-8s {
   /* Type valid CSS here */
 }
@@ -8836,6 +8906,29 @@ section.lazy-placeholder:after {
 #custom-html-8s p {
   font-size: 60px;
   color: #777;
+}
+.cid-rFztW3Nk3Z {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #073b4c;
+}
+.cid-rFztW3Nk3Z .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rFztW3Nk3Z .section-text {
+  padding: 2rem 0;
+}
+.cid-rFztW3Nk3Z .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rFztW3Nk3Z .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-rCQhqRegdo {
   padding-top: 90px;
@@ -8873,6 +8966,29 @@ section.lazy-placeholder:after {
 #custom-html-8t p {
   font-size: 60px;
   color: #777;
+}
+.cid-rFzubqPUOj {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #073b4c;
+}
+.cid-rFzubqPUOj .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rFzubqPUOj .section-text {
+  padding: 2rem 0;
+}
+.cid-rFzubqPUOj .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rFzubqPUOj .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-rCQhtX4kLO {
   padding-top: 90px;
@@ -9127,9 +9243,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rCQhP0qrOw {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+  padding-top: 45px;
+  padding-bottom: 45px;
 }
 .cid-rCQhP0qrOw .socicon-bg-facebook {
   background: #3e5b98;
@@ -9161,6 +9276,9 @@ section.lazy-placeholder:after {
 }
 .cid-rCQhP0qrOw .btn-social {
   border: none !important;
+}
+.cid-rCQhP0qrOw .btn-social {
+  border-radius: 0 !important;
 }
 .cid-rCQhP0qrOw [class^="socicon-"]:before,
 .cid-rCQhP0qrOw [class*=" socicon-"]:before {
@@ -13723,7 +13841,7 @@ section.lazy-placeholder:after {
 .cid-rDpy57lQcn {
   padding-top: 105px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/background56.jpg");
+  background-image: url("../../../assets/images/background513.jpg");
 }
 .cid-rDpy57lQcn .mbr-overlay {
   background-color: #879a9f;
