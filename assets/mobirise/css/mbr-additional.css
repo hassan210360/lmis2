@@ -1126,6 +1126,18 @@ section.lazy-placeholder:after {
 .cid-rFr8h0jafp .btn {
   margin: 0 0 .5rem 0;
 }
+#custom-html-9v {
+  /* Type valid CSS here */
+}
+#custom-html-9v div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-9v p {
+  font-size: 60px;
+  color: #777;
+}
 .cid-rD750nHTdz {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -4329,7 +4341,7 @@ section.lazy-placeholder:after {
   background-color: #2e2e2e;
 }
 .cid-rCsG8WtpKz {
-  background-image: url("../../../assets/images/background319.jpg");
+  background-image: url("../../../assets/images/background32.jpg");
 }
 .cid-rCsG8WtpKz h1 {
   color: #616161;
